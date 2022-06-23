@@ -38,8 +38,9 @@ Neste projeto integrador são apresentados os resultados de simulações computa
 ## Realizado por:
 - João Miranda, pg47332
 - Duarte Rodrigues, pg47158
-- Mestrado de Eletrônica de Potência de Energia @ Universidade do Minho, 2021
 
 ## Orientado por:
 - Professor Doutor Gabriel Pinto
 - Professor Luís Barros
+
+Mestrado de Eletrônica de Potência de Energia @ Universidade do Minho, 2021
