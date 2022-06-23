@@ -46,4 +46,4 @@ Neste projeto integrador são apresentados os resultados de simulações computa
 - Professor Doutor Gabriel Pinto
 - Professor Luís Barros
 
-Mestrado de Eletrônica de Potência de Energia @ Universidade do Minho, 2021
+Mestrado de Eletrônica de Potência de Energia @ Universidade do Minho, 2022
