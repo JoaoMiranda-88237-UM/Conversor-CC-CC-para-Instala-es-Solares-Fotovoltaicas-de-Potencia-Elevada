@@ -1,0 +1,52 @@
+C:\Users\Public\Documents\Altium\Projects\PCB_Project
+
+- SIC MOSFET
+
+https://www.littelfuse.com/~/media/electronics/datasheets/power_semiconductors/littelfuse_power_semiconductor_silicon_carbide_lsic1mo120e0160_datasheet.pdf.pdf
+
+- Diodo Rohm Semiconductor SCS220AGC17
+
+https://www.digikey.pt/pt/products/detail/rohm-semiconductor/SCS220AGC17/15768675
+https://fscdn.rohm.com/en/products/databook/datasheet/discrete/sic/sbd/scs220agc17-e.pdf
+
+https://fscdn.rohm.com/en/products/databook/datasheet/discrete/sic/sbd/scs220agc17-e.pdf
+
+- TERMINAL PCB SCREW 1.85MM
+
+https://www.digikey.pt/pt/products/detail/keystone-electronics/7797/2171009
+https://www.digikey.pt/pt/products/detail/te-connectivity-amp-connectors/282857-2/1153273
+
+- TE 2 PINS 2.54MM
+
+https://www.te.com/usa-en/product-282834-2.html
+https://www.digikey.pt/pt/products/detail/te-connectivity-amp-connectors/282834-2/1150135
+
+- TE 2 PINS 5.08MM
+
+https://www.te.com/usa-en/product-282857-2.html?q=282857-2&source=header
+https://www.digikey.pt/pt/products/detail/te-connectivity-amp-connectors/282857-2/1153273
+
+- TE 2 PINS 7.5MM
+
+https://www.te.com/usa-en/product-282844-2.html
+https://www.digikey.pt/pt/products/detail/te-connectivity-amp-connectors/282844-2/1826955?s=N4IgTCBcDa4BxjgFiQWggXQL5A
+
+- TE 3 PINS 5.08MM
+
+https://www.te.com/usa-en/product-282841-3.html
+https://www.digikey.pt/pt/products/detail/te-connectivity-amp-connectors/282841-3/1136741
+
+
+
+
+
+- Condensador (700 V, 20 uF, 24 mm)
+
+https://www.vishay.com/docs/26010/mkp1848sdclink.pdf
+
+10,50 mm -> resistencia
+
+4mm -> furacoes
+
+55mm * 25 mm -> dissipador
+
